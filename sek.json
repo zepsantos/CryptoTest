@@ -2,15 +2,15 @@
   "name": "SEK",
   "symbol": "SEK",
   "description": "The SEK Token on Solana.",
-  "image": "https://pasteboard.co/AMXnFjr3BUDh.png",
-  "decimals": 6,
+  "image": "https://gcdnb.pbrd.co/images/AMXnFjr3BUDh.png?o=1",
+  "decimals": 9,
   "seller_fee_basis_points": 0,
   "external_url": "https://example.com",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://pasteboard.co/AMXnFjr3BUDh.png",
+        "uri": "https://gcdnb.pbrd.co/images/AMXnFjr3BUDh.png?o=1",
         "type": "image/png"
       }
     ],
