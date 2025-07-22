@@ -1,0 +1,25 @@
+{
+  "name": "SAGRES",
+  "symbol": "SGS",
+  "description": "The Sagres Token on Solana",
+  "image": "https://gcdnb.pbrd.co/images/4GJ8k4uvSYWi.png?o=1",
+  "decimals": 6,
+  "seller_fee_basis_points": 0,
+  "external_url": "https://sagres-sun-solana.lovable.app",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://gcdnb.pbrd.co/images/4GJ8k4uvSYWi.png?o=1",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "",
+        "share": 100
+      }
+    ]
+  }
+}
